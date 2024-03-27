@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "name": "Ajiboye Toheeb",
+            "email": "Ajiboye@gmail.com",
+            "phone": "8155662026"
+        },
+        {
+            "id": "2",
+            "name": "Nike",
+            "email": "Nike@gmail.com",
+            "phone": "8155443026" 
+        },
+        {
+            "id": "3",
+            "name": "David",
+            "email": "David@gmail.com",
+            "phone": "9166443026" 
+        }
+    ]
+}
